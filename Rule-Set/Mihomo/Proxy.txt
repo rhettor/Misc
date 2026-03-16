@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,no-mad-world.club
+DOMAIN-SUFFIX,jrkan.com
