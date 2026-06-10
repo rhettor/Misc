@@ -1,4 +1,3 @@
 DOMAIN-SUFFIX,no-mad-world.club
 DOMAIN-SUFFIX,jrkan.com
 DOMAIN-SUFFIX,scootersoftware.com
-DOMAIN-SUFFIX,wireshark.org
