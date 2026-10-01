@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX,ipw.cn
 DOMAIN-SUFFIX,juejin.cn
+DOMAIN-SUFFIX,edgedl.me.gvt1.com
