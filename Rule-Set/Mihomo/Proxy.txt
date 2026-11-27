@@ -3,3 +3,4 @@ DOMAIN-SUFFIX,jrkan.com
 DOMAIN-SUFFIX,scootersoftware.com
 DOMAIN-SUFFIX,btc620.com
 DOMAIN-SUFFIX,context7.com
+DOMAIN-SUFFIX,leiting.app
